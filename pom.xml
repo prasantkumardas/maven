@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd ">
+  <build>
+     <sourceDirectory>src/nonstandard/java</sourceDirectory>
+     <directory>mytarget</directory>
+  </build>
+  <modelVersion>4.0.0</modelVersion>
+  <artifactId>maven-project</artifactId>
+  <groupId>com.infiniteskills.maven</groupId>
+  <version>1.0.0</version>
+  <packaging> jar </packaging>
+  <name>learnign maven project</name>
+  <description>This is a project for hellow world demo project </description>
+  <url>http://course.maven.infiniteskills.com</url>
+  <organization>
+    <name> Infiniteskills</name>
+    <url>http://www.infiniteskills.com</url>
+  </organization>
+  <developers>
+    <developer>
+    <name>Prasant Das</name>
+    <organization>infiniteskills</organization>
+    <email></email>
+    <timezone>Time zone in India (GMT+5:30)</timezone>
+    <roles></roles>
+    <id>prasant123</id>
+    </developer>
+    
+  </developers>
+</project>
